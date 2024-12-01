@@ -1,1 +1,2 @@
-# event_simulation
+# Optimizing Manufacturing Efficiency Through Discrete Event Simulation: Addressing Queue Management and Machine Bottlenecks
+This project developed a Discrete Event Simulation (DES) to model and optimize the lamp manufacturing process, focusing on the performance of two sequential machines. Implemented in Julia, the simulation tracked the flow of orders (lamps) using random number generators (RNGs) for realistic stochastic processing and event-driven mechanisms to handle arrivals, queues, and machine operations. Adjustable parameters, including interarrival times, machine service times, and queue capacities, were analyzed to evaluate and improve system efficiency.
